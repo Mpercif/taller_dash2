@@ -17,6 +17,7 @@ app.title = "Dashboard energia"
 server = app.server
 app.config.suppress_callback_exceptions = True
 
+# Estoy agregando comentarios para generar cambios
 
 # Load data from csv
 def load_data():
